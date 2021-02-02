@@ -27,6 +27,10 @@ Good luck and we look forward to seeing your submission!
 
 ## Docs
 
+### Note on UUID
+The UUID is the 32 character alpha-numeric code given to you in the link for the challenge, notice that it's a required 
+header for the API calls to succeed. Attach it as a header appropriately. 
+
 ### APIs / Paths
 
 ```
